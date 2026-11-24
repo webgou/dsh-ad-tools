@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Tencent Ads tools",
+    "description": "Delivery analysis and Griffin data in the sidebar: eight tools render reports directly, credentials live in panel settings, and no local server is needed.",
+    "detail": "docs/DETAIL.md"
+  }
+}
