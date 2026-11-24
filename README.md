@@ -3,7 +3,7 @@
 把腾讯广告的日常投放分析和格里芬（Grafana）取数收进 [DSH](https://dsh.ai) 右侧栏：八个分析工具
 一个面板出结果，主对话也能直接取数分析。不用再复制表格，也不用另起一个本地网页服务。
 
-作者技术博客：**[www.webgou.info](https://www.webgou.info/)**
+作者技术博客：**[www.webgou.info](https://www.webgou.info/)** · 联系邮箱：**3596651531@qq.com**
 详细设计与口径说明：[docs/DETAIL.zh.md](docs/DETAIL.zh.md) · [English](docs/DETAIL.md)
 
 ![盯盘](docs/images/panel-monitor.png)
@@ -131,5 +131,5 @@ MKT_ACCOUNT_ID=12345678 node scripts/盯盘.mjs --json
 A DSH plugin that brings Tencent Ads delivery analysis and Griffin (Grafana) reporting into the DSH
 right sidebar: eight analysis tools, a report model shared with the main conversation via
 `ad_tools_report` / `ad_tools_last_report`, and credentials kept in a local 0600 config file.
-See [docs/DETAIL.md](docs/DETAIL.md) for the full design, and
-[www.webgou.info](https://www.webgou.info/) for the author's blog.
+See [docs/DETAIL.md](docs/DETAIL.md) for the full design,
+[www.webgou.info](https://www.webgou.info/) for the author's blog, and 3596651531@qq.com for contact.
